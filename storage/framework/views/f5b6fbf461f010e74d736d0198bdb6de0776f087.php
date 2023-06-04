@@ -1,0 +1,1 @@
+<h1>success</h1><?php /**PATH C:\xampp\htdocs\eco_V1\resources\views/success.blade.php ENDPATH**/ ?>
